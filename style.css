@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    cursor: pointer;
+}
+p{
+    text-align: justify;
+    cursor: pointer;
+}
+.overflow-related{
+    width: 500px;
+    height: 300px;
+    margin: 35px auto;
+    background: #bbff00;
+    overflow: scroll;
+}
+
+
+.box{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    background: #0066ff;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px red;
+}
+.box h1{
+    padding: 80px; 
+}
+.box2{
+    width: 500px;
+    height: 200px;
+    margin: 50px auto;
+    border-radius: 20px;
+    background: #00ff2a;
+    box-shadow: 15px 15px 0px #003cff;
+}
+.box2 h1{
+    padding: 80px; 
+}
+.box3{
+    width: 500px;
+    height: 200px;
+    margin: 50px auto;
+    border-radius: 20px;
+    background: #ff4800;
+    box-shadow: 0px 0px 50px #00ff4c;
+}
+.box3 h1{
+    padding: 80px; 
+}
+
